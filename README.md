@@ -1,7 +1,4 @@
 # House Assignment Manager
-Java application designed to streamline the process of assigning new students to sports houses.
-
-## Overview
 This Java application is designed to assist teachers in assigning new students to relevant sports houses in a school. The program prompts the user for three student names and randomly assigns them to either the Red, Blue, or White house. Additionally, a random student number is generated for each student, which consists of the house name and a maximum of four randomly generated numbers.
 
 ## Features
